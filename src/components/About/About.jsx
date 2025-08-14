@@ -35,7 +35,7 @@ const About = () => {
             I’m Kirti Patil, a passionate Frontend Developer with a strong foundation in HTML, CSS, JavaScript, and React. I enjoy building clean, responsive user interfaces and have hands-on experience from internships and projects like BooksForYou and an IoT-based drone monitoring system. I'm always eager to learn and grow in a collaborative tech environment.
           </p>
           <a
-            href="https://drive.google.com/file/d/1MtQCFj6es_DrLce2a6htT5rhwjd5hBw6/view?usp=drivesdk"
+            href="https://drive.google.com/file/d/1O0ZxPgeAxplUWl5WVjZbv2Pon9MvmIlw/view?usp=drivesdk"
             target="_blank"
             rel="noopener noreferrer"
             className="inline-block text-white py-3 px-8 rounded-full mt-5 text-lg font-bold transition duration-300 transform hover:scale-105"
